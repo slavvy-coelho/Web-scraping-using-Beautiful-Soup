@@ -6,3 +6,13 @@ Write a web scraper to extract the faculty information from this page: https://w
  <B>(a) Crawl Web Page:</B> <BR>A web page is essentially a file stored in a remote machine (called web server). Please write code to download the HTML page and save it as a text file ("csfaculty.html")<BR>
  <B>(b) Extract Structured Data: </B> <BR>Please write code to extract relevant content (name, rank, area, profile, homepage) from "csfaculty.html" and save them as a CSV file named faculty.csv
  
+ ## Task 2: To find if Age follows a Normal Distribution
+ In this task, you start with a question and then figure out what data to collect.
+
+The question that you are intersted in is Does SFU CS faculty age follow a normal distribution?
+
+To estimate the age of a faculty member, you can collect the year in which s/he graduates from a university (gradyear) and then estimate age using the following equation:
+
+<p align='center'><i>age≈2020+23−gradyear</i></p>
+For example, if one graduates from a university in 1990, then the age is estimated as 2020+23-1990 = 53.
+ 
