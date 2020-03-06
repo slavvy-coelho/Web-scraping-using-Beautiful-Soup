@@ -22,3 +22,9 @@ You notice that faculty profile pages contain graduation information. For exampl
 Please write code to download the 64 profile pages and save each page as a text file.<br>
 <B>(b) Extract Structured Data: </B> <BR>Please write code to extract the earliest graduation year (e.g., 2008 for Dr. Jiannan Wang) from each profile page, and create a csv file named faculty_grad_year.csv.
  
+ ## Running Instructions
+ <ol> 
+ <li>Download the code from the src folder.</li>
+ <li>Run the code using juoyter notebook. </li> </ol>
+ 
+ 
