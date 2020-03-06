@@ -14,5 +14,10 @@ The question that you are intersted in is Does SFU CS faculty age follow a norma
 To estimate the age of a faculty member, you can collect the year in which s/he graduates from a university (gradyear) and then estimate age using the following equation:
 
 <p align='center'><i>age≈2020+23−gradyear</i></p>
+
 For example, if one graduates from a university in 1990, then the age is estimated as <i>2020+23-1990 = 53. </i>
+<b>(a) Crawl Web Page</b>
+You notice that faculty profile pages contain graduation information. For example, you can see that Dr. Jiannan Wang graduated from Harbin Institute of Technology in 2008 at http://www.sfu.ca/computing/people/faculty/jiannanwang.html.
+
+Please write code to download the 64 profile pages and save each page as a text file.
  
