@@ -1,6 +1,8 @@
 # Web-scraping-using-Beautiful-Soup
 Python notebook to scrape an html page and store it as a csv file. 
 
+## Aim
+ This repo aims to help you work with Beautiful Soup for web scraping. It is an easy way to scrape an html page once you have inspected the layout and the html source of the page. The documentation can be found <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">here.</a><br><br>
 ## Task 1:
 Write a web scraper to extract the faculty information from this page: https://www.sfu.ca/computing/people/faculty.html.<BR>
  <B>(a) Crawl Web Page:</B> <BR>A web page is essentially a file stored in a remote machine (called web server). Please write code to download the HTML page and save it as a text file ("csfaculty.html")<BR>
@@ -25,6 +27,6 @@ Please write code to download the 64 profile pages and save each page as a text 
  ## Running Instructions
  <ol> 
  <li>Download the code from the src folder.</li>
- <li>Run the code using juoyter notebook. </li> </ol>
+ <li>Run the code using jupyter notebook. </li> </ol>
  
  
