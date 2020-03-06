@@ -27,6 +27,8 @@ Please write code to download the 64 profile pages and save each page as a text 
  ## Running Instructions
  <ol> 
  <li>Download the code from the src folder.</li>
- <li>Run the code using jupyter notebook. </li> </ol>
+ <li>Run the code using jupyter notebook. </li> 
+ <li>Your output files would look like the ones in data folder. (Note: You don't have to download these. Your code shall do it for you. Use them to verify.) </li>
+</ol>
  
  
