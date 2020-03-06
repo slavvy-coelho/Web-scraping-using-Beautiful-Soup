@@ -15,9 +15,9 @@ To estimate the age of a faculty member, you can collect the year in which s/he 
 
 <p align='center'><i>age≈2020+23−gradyear</i></p>
 
-For example, if one graduates from a university in 1990, then the age is estimated as <i>2020+23-1990 = 53. </i>
-<b>(a) Crawl Web Page</b>
-You notice that faculty profile pages contain graduation information. For example, you can see that Dr. Jiannan Wang graduated from Harbin Institute of Technology in 2008 at http://www.sfu.ca/computing/people/faculty/jiannanwang.html.
+For example, if one graduates from a university in 1990, then the age is estimated as <i>2020+23-1990 = 53. </i> <br>
+<b>(a) Crawl Web Page:</b><br>
+You notice that faculty profile pages contain graduation information. For example, you can see that Dr. Jiannan Wang graduated from Harbin Institute of Technology in 2008 at http://www.sfu.ca/computing/people/faculty/jiannanwang.html. <br>
 
-Please write code to download the 64 profile pages and save each page as a text file.
+Please write code to download the 64 profile pages and save each page as a text file.<br>
  
